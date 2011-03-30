@@ -2,15 +2,15 @@ simple_cms is an early-stage blog built without the aid of extensive rails scaff
 
 Currently only an admin user account has been configured.
 
-The app should work w/ other databases such as sqlite. 
+---------------------------------------------------
 
 Demo: http://floating-day-698.heroku.com/
 
 Screen caps can be found at: 
 
-Admin Pages Interface: http://dl.dropbox.com/u/6596414/github/1.png
+*Admin Pages Interface: http://dl.dropbox.com/u/6596414/github/1.png
 
-Admin Section Interface: http://dl.dropbox.com/u/6596414/github/2.png
+*Admin Section Interface: http://dl.dropbox.com/u/6596414/github/2.png
 
-Admin Subject Interface: http://dl.dropbox.com/u/6596414/github/3.png
+*Admin Subject Interface: http://dl.dropbox.com/u/6596414/github/3.png
 
