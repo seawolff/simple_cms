@@ -2,7 +2,9 @@ simple_cms is an early-stage blog built without the aid of extensive rails scaff
 
 Currently only an admin user account has been configured.
 
-The app should work w/ other databases such as sqllite however I have only developed the schemas specifically for mysql.
+The app should work w/ other databases such as sqlite. 
+
+Demo: http://floating-day-698.heroku.com/
 
 Screen caps can be found at: 
 
